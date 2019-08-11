@@ -1,4 +1,5 @@
 @echo off
+@echo %RSYNC_HOME%
 set RSYNC_HOME=C:\Program Files (x86)\cwRsync\bin
 cd %RSYNC_HOME%
 C:
